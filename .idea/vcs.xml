@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/MercadoPy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MercadoPython" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MercadoPython/Mercado-Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProjetosFaculdade" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utils" vcs="Git" />
+  </component>
+</project>
